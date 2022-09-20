@@ -1,0 +1,20 @@
+.parent{
+    height: 390px;
+}
+
+p span img{
+    width: 22px;
+    height: 22px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.sign_up{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
